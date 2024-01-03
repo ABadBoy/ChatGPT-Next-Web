@@ -27,3 +27,4 @@ export const GET = handle;
 export const POST = handle;
 
 export const runtime = "edge";
+export const preferredRegion = ["sfo1","cle1","iad1","pdx1"];
